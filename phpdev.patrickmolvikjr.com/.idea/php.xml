@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpInterpreters">
+    <interpreters>
+      <interpreter home="sftp://patmol52@phpdev.patrickmolvikjr.com:22/usr/bin/php" id="33f51af6-0054-4761-9299-b70633a47bf4" name="Remote PHP" debugger_id="php.debugger.XDebug">
+        <remote_data WEB_SERVER_CONFIG_ID="6b9cb6d9-e79f-450c-a0cc-3e7aa0c4a4b3" WEB_SERVER_CONFIG_NAME="phpdev.patrickmolvikjr.com" WEB_SERVER_CREDENTIALS_ID="sftp://patmol52@phpdev.patrickmolvikjr.com:22" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/patmol52/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
+      </interpreter>
+    </interpreters>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="7" />
+</project>

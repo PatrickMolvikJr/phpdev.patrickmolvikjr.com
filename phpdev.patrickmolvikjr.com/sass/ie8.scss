@@ -1,0 +1,52 @@
+@import 'libs/vars';
+@import 'libs/functions';
+@import 'libs/mixins';
+
+/*
+	Strongly Typed by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+*/
+
+/* Basic */
+
+	form {
+		input[type="text"],
+		input[type="email"],
+		input[type="password"],
+		select,
+		textarea {
+			position: relative;
+
+		}
+	}
+
+	input[type="button"],
+	input[type="submit"],
+	input[type="reset"],
+	button,
+	.button {
+		position: relative;
+
+	}
+
+	.button, .box.excerpt .date {
+		position: relative;
+
+	}
+
+/* Sections/Article */
+
+	section, article {
+		> .last-child, &.last-child {
+			margin-bottom: 0;
+		}
+	}
+
+/* Wrappers */
+
+	#banner-wrapper {
+		.inner {
+
+		}
+	}
