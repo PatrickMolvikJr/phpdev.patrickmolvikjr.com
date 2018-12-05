@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6b9cb6d9-e79f-450c-a0cc-3e7aa0c4a4b3" name="phpdev.patrickmolvikjr.com" url="http://phpdev.patrickmolvikjr.com">
+        <fileTransfer host="phpdev.patrickmolvikjr.com" port="22" rootFolder="/home/patmol52/phpdev.patrickmolvikjr.com" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="6671ecee-46e6-452c-a1b2-308f17880d7e" name="phpprod.patrickmolvikjr.com" url="http://phpprod.patrickmolvikjr.com">
+        <fileTransfer host="phpprod.patrickmolvikjr.com" port="22" rootFolder="/home/patmol52/phpprod.patrickmolvikjr.com" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
